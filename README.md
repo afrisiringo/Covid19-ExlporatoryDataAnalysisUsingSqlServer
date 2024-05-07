@@ -1,5 +1,8 @@
 # COVID-19 : Exploratory Data Analysis Using SQL Server
 
+## Usage
+To run the analysis, you'll need access to a SQL server instance and the datasets `CovidDeaths.xlsx` and `CovidVaccinations.xlsx`. The SQL scripts used for analysis are available in `COVID-19-EDA with SQL Server.sql`
+
 ## Overview
 This project is an exploratory data analysis (EDA) of COVID-19 deaths and vaccination data using SQL Server. The analysis aims to uncover insights and patterns related to COVID-19 cases, deaths, and vaccination rates across various countries and continents.
 
@@ -10,9 +13,6 @@ The analysis is based on two datasets:
 2. **COVID Vaccination**: This dataset provides data on the number of people vaccinated against COVID-19 in different countries and dates.
 
 The data covers the time range from January 2020 to April 2021.
-
-## Getting Started 
-To run the analysis, you'll need access to a SQL server instance and the datasets `CovidDeaths.xlsx` and `CovidVaccinations.xlsx`. The SQL scripts used for analysis are available in `COVID-19-EDA with SQL Server.sql`
 
 ## Analysis
 The EDA covers the following aspects:
