@@ -15,11 +15,32 @@ The data covers the time range from January 2020 to April 2021.
 The EDA covers the following aspects:
 
 - Time range of the data
+
+  ![date range](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/d484a1f3-ca63-4803-80a2-c8ec379d601a)
+  
 - Percentage of deaths to total COVID-19 cases
+
+  ![percent 1](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/cb1eab19-702c-4484-8a91-310fc4f1b41e)
+
+- Percentage of the population infected with COVID-19
+
+ ![infection rate](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/4dae653a-3c26-4a64-8b6a-576fbe3cb357)
+
 - Countries with the highest infection rates on each continent
+
+  ![countries highest rate](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/885d0432-4919-421d-9858-ce87a64b203c)
+  
 - Countries with the highest number of deaths on each continent
+
+  ![highest number](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/e95d3508-223c-4008-b68b-b218bcdd3b26)
+
 - Total cases, total deaths, and death rates worldwide
+
+  ![worldwide](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/2a641924-abb2-4942-a92c-9ad23b3ea98c)
+
 - Percentage of the population that has received the COVID-19 vaccine per date
+  
+  ![vacc](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/d79a9419-da3f-4cac-8471-efcd636a20b2)
 
 ## Workflow
 The analysis follows these steps:
