@@ -40,7 +40,7 @@ The EDA covers the following aspects:
 
 - Percentage of the population that has received the COVID-19 vaccine per date
   
-  ![vacc](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/d79a9419-da3f-4cac-8471-efcd636a20b2)
+  ![vacc](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/fe30a3b1-5f68-48cc-9605-07effa7804cc)
 
 ## Workflow
 The analysis follows these steps:
