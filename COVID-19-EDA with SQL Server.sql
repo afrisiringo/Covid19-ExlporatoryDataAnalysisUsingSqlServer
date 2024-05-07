@@ -2,7 +2,7 @@
 
 COVID-19 Data Exploration
 
-Skills used: Joins, CTEs, Temp Tables, Window Functions, Aggregate Functions, Creating Views, Converting Data Type
+Skills used: Joins, CTEs, Window Functions, Aggregate Functions, Creating Views, Converting Data Type
 
 Tool used : Microsoft SQL Server Management Studio
 
