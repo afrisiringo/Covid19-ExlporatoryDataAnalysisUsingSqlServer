@@ -11,6 +11,9 @@ The analysis is based on two datasets:
 
 The data covers the time range from January 2020 to April 2021.
 
+## Getting Started 
+To run the analysis, you'll need access to a SQL server instance and the datasets `CovidDeaths.xlsx` and `CovidVaccinations.xlsx`. The SQL scripts used for analysis are available in `COVID-19-EDA with SQL Server.sql`
+
 ## Analysis
 The EDA covers the following aspects:
 
@@ -58,6 +61,5 @@ The following SQL skills were utilized during the analysis:
 - Creating views (e.g., PARTITION BY, ROW_NUMBER)
 - Data type conversion
 
-## Getting Started 
-To run the analysis, you'll need access to a SQL server instance and the datasets `CovidDeaths.xlsx` and `CovidVaccinations.xlsx`. The SQL scripts used for analysis are available in `COVID-19-EDA with SQL Server.sql`
+
 
