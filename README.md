@@ -24,7 +24,7 @@ The EDA covers the following aspects:
 
 - Percentage of the population infected with COVID-19
 
- ![infection rate](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/4dae653a-3c26-4a64-8b6a-576fbe3cb357)
+  ![infection rate](https://github.com/afrisiringo/Covid19Deaths-ExlporatoryDataAnalysis/assets/151942031/4dae653a-3c26-4a64-8b6a-576fbe3cb357)
 
 - Countries with the highest infection rates on each continent
 
