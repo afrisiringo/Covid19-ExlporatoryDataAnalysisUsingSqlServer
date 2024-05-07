@@ -1,4 +1,4 @@
-# COVID-19 : Exlporatory Data Analysis Using SQL Server
+# COVID-19 : Exploratory Data Analysis Using SQL Server
 
 ## Overview
 This project is an exploratory data analysis (EDA) of COVID-19 deaths and vaccination data using SQL Server. The analysis aims to uncover insights and patterns related to COVID-19 cases, deaths, and vaccination rates across various countries and continents.
