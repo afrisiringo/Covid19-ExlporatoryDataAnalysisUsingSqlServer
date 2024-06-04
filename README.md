@@ -3,7 +3,7 @@
 ## Usage
 To run the analysis, you'll need access to a SQL server instance and the datasets `CovidDeaths.xlsx` and `CovidVaccinations.xlsx`. The SQL scripts used for analysis are available in `COVID-19-EDA with SQL Server.sql`
 
-## Overview
+## Project Overview
 This project is an exploratory data analysis (EDA) of COVID-19 deaths and vaccination data using SQL Server. The analysis aims to uncover insights and patterns related to COVID-19 cases, deaths, and vaccination rates across various countries and continents.
 
 ## Dataset
